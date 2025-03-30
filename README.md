@@ -12,15 +12,88 @@ A comprehensive quick reference guide for C++ programming fundamentals, object-o
 - Functions
 - String Operations
 
-### CppBasics.md
-- Classes and Objects
-- Inheritance
-- Virtual Functions
-- Abstract Classes
-- Polymorphism
-- Encapsulation
+- **Variables and Data Types**
+  - Primitive types
+  - Type modifiers
+  - Constants
+  - Auto type deduction
+  - References and pointers
 
-### CppAdvanced.md
+- **Operators**
+  - Arithmetic operations
+  - Compound assignments
+  - Comparison operators
+  - Logical operators
+  - Bitwise operators
+  - Increment/decrement
+
+- **Control Structures**
+  - If-else statements
+  - Switch statements
+  - Loops (while, do-while, for)
+  - Range-based for loops
+
+- **Arrays**
+  - Declaration and initialization
+  - Multi-dimensional arrays
+  - Array operations
+  - Modern alternatives (std::array, std::vector)
+
+- **Functions**
+  - Basic functions
+  - Parameter handling
+  - Function overloading
+  - Default parameters
+  - Inline functions
+
+- **String Operations**
+  - String creation
+  - String methods
+  - String comparison
+  - String manipulation
+  - String streams
+
+### CppBasics.md
+- **Classes and Objects**
+  - Class structure
+  - Constructors and destructors
+  - Member functions
+  - Const correctness
+  - Initializer lists
+
+- **Inheritance**
+  - Base and derived classes
+  - Protected access
+  - Virtual functions
+  - Override keyword
+  - Multiple inheritance
+
+- **Virtual Functions**
+  - Virtual methods
+  - Pure virtual functions
+  - Virtual destructors
+  - Runtime polymorphism
+
+- **Abstract Classes**
+  - Pure virtual functions
+  - Interface design
+  - Multiple inheritance
+  - Abstract class implementation
+
+- **Polymorphism**
+  - Virtual functions
+  - Base class pointers
+  - Smart pointer usage
+  - Dynamic dispatch
+
+- **Encapsulation**
+  - Access control
+  - Data hiding
+  - Copy constructors
+  - Assignment operators
+  - RAII pattern
+
+### AdvancedCpp.md
 - **Templates**
   - Function templates
   - Class templates
